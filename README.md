@@ -9,7 +9,7 @@
             justify-content: space-between; /* Adjusts space between images */
         }
         .image-container img {
-            max-width: 100%; /* Ensures images are responsive */
+            max-width: 50%; /* Ensures images are responsive */
             height: auto;
         }
     </style>
