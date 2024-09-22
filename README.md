@@ -20,7 +20,7 @@
         <li><strong>TitanicViz - Tableau integrated analysis of R</li>
         <li><strong>Largest cities (PowerBI)</li>
           
-    </ul>
+  </ul>
 </body>
 
 <br>
