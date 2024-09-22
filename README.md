@@ -1,5 +1,27 @@
 <h2 align= "Left"><em>Tableau-and-DataViz-Projects Repository Summary</em></h2>
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .image-container {
+            display: flex;
+            justify-content: space-between; /* Adjusts space between images */
+        }
+        .image-container img {
+            max-width: 100%; /* Ensures images are responsive */
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Tableau-Logo-768x432.png" alt="Image 1">
+        <img src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Power-BI-Logo-700x394.png" alt="Image 2">
+    </div>
+</body>
+</html>
+
 <div align="center">
   <img height="200" src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Tableau-Logo-768x432.png"/>
 </div>
