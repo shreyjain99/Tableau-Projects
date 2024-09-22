@@ -12,12 +12,14 @@
 
 <body>
     <ul>
-        <li><strong>Chicago Crime Analysis using SQL:</strong> A comprehensive project analyzing crime data in Chicago using SQL.</li>
-        <li><strong>PetclinicDB Transformation Project:</strong> A project focused on transforming the PetclinicDB database.</li>
-        <li><strong>LeetCode SQL50 Solutions:</strong> Solutions to the top 50 SQL problems on LeetCode.</li>
-        <li><strong>SQL Certifications:</strong> Documentation and details of SQL certifications obtained.</li>
-        <li><strong>SQL Questions and Queries:</strong> A collection of SQL questions and queries developed using MySQL Workbench.</li>
-        <li><strong>W3Schools SQL Quiz Solutions:</strong> Solved quizzes from W3Schools SQL tutorials.</li>
+        <li><strong>Harvest Horizons: California's Yield Patterns</li>
+        <li><strong>Market Based Analysis</li>
+        <li><strong>Risk of Energy Infrastructure to Natural Disaster</li>
+        <li><strong>Superstore-Charts</li>
+        <li><strong>Visualizing University Food Court Sales with TreeMaps</li>
+        <li><strong>TitanicViz - Tableau integrated analysis of R</li>
+        <li><strong>Largest cities (PowerBI)</li>
+          
     </ul>
 </body>
 
