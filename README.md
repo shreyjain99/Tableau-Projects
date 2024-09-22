@@ -12,13 +12,15 @@
 
 <body>
     <ul>
-        <li><strong>Harvest Horizons: California's Yield Patterns</li>
-        <li><strong>Market Based Analysis</li>
-        <li><strong>Risk of Energy Infrastructure to Natural Disaster</li>
-        <li><strong>Superstore-Charts</li>
-        <li><strong>Visualizing University Food Court Sales with TreeMaps</li>
-        <li><strong>TitanicViz - Tableau integrated analysis of R</li>
-        <li><strong>Largest cities (PowerBI)</li>
+        <li><strong>Harvest Horizons: California's Yield Patterns  --> Created visualizations to understand yield patterns in these counties over the years 1971-1975.</li>
+          
+  <li><strong>Market Based Analysis --> Analyzed the Instacart dataset to identify purchasing patterns and trends, such as frequently bought items and common product combinations, to enhance product recommendations and improve customer shopping experiences.</li>
+        
+  <li><strong>Risk of Energy Infrastructure to Natural Disaster --> The objective is to find out top 4 natural disasters impacting a corporation (exxon mobil) in the energy industry.</li>
+  <li><strong>Superstore-Charts --> Made charts in Tableau by implementing join, aggregation, sort and filter techniques in a worksheet. Using superstore data provided by tableau. </li>
+  <li><strong>Visualizing University Food Court Sales with TreeMaps --> Utilizing the TreeMap visualization technique to analyze and present university food court data effectively.</li>
+  <li><strong>TitanicViz - Tableau integrated analysis of R --> Performed K-means clustering analysis using R and visualizing the results with Tableau</li>
+  <li><strong>Largest cities (PowerBI) --> transformed raw data into a format suitable for creating animated visualizations and utilizing PowerBI's features to analyze and present data effectively</li>
           
   </ul>
 </body>
