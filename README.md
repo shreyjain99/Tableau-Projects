@@ -6,6 +6,11 @@
 
 <hr width="100%" size="2">
 
+<a href="https://public.tableau.com/app/profile/shrey.jain6858/vizzes">CHECK OUT MY TABLEAU PUBLIC PROFILE HERE</a>
+
+
+<hr width="100%" size="2">
+
 <h3 align= "left"> <b> GitHub Repository Overview </b> </h3>
 
 <br>
