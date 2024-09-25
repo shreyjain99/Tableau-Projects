@@ -2,7 +2,7 @@
 
 
 <div align="Left">
-<a href="https://public.tableau.com/app/profile/shrey.jain6858/vizzes"><img src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Tableau-Logo-768x432.png" alt="HTML tutorial" style="width:1100px;height:250px;"></a>
+<a href="https://public.tableau.com/app/profile/shrey.jain6858/vizzes"><img src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Tableau-Logo-768x432.png""></a>
 </div>
 
 <hr width="100%" size="2">
