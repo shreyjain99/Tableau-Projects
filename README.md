@@ -1,8 +1,7 @@
 <h2 align= "Left"><em>Tableau-and-DataViz-Projects Repository Summary</em></h2>
 
-
-<div align="Left">
-<a href="https://public.tableau.com/app/profile/shrey.jain6858/vizzes"><img src="https://github.com/shreyjain99/Tableau-and-DataViz-Projects/blob/main/src%20files/Tableau-Logo-768x432.png""></a>
+<div align="center">
+  <img  src="https://github.com/shreyjain99/Ad-Click-Likelihood-Estimator/blob/main/src%20files/cover%20image.webp"/>
 </div>
 
 <hr width="100%" size="2">
