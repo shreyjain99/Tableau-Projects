@@ -12,7 +12,7 @@
 
 <body>
     <ul>
-        <li><strong><ins>Harvest Horizons: California's Yield Patterns</ins>  --> Created visualizations to understand yield patterns in these counties over the years 1971-1975.</li>
+        <li><ins>Harvest Horizons: California's Yield Patterns</ins>  --> Created visualizations to understand yield patterns in these counties over the years 1971-1975.</li>
           
   <li><strong><ins>Market Based Analysis</ins> --> Analyzed the Instacart dataset to identify purchasing patterns and trends, such as frequently bought items and common product combinations, to enhance product recommendations and improve customer shopping experiences.</li>
         
